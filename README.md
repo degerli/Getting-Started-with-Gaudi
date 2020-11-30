@@ -1,1 +1,1 @@
-# Getting-Started-with-Gaudi
+# Getting Started with Gaudi
